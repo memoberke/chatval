@@ -1,0 +1,17 @@
+{
+  "name": "ChatVal",
+  "description": "",
+  "main": "",
+  "authors": [
+    "memoberke <mehmetberke99@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "chat",
+    "nodejs"
+  ],
+  "homepage": "https://github.com/memoberke/chatval",
+  "dependencies": {
+    "angular": "^1.7.8"
+  }
+}
